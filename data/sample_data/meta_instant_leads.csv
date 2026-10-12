@@ -1,0 +1,21 @@
+lead_id,created_time,campaign_name,ad_name,form_name,full_name,email,phone_number,completion_time_sec,custom_answer_timeline,custom_answer_budget,cost_per_lead
+lead_101,2026-10-12T08:15:00Z,B2B - Solar Solutions,Ad 1 - Savings Hook,Instant Form - Commercial Solar,Mike Miller,mike@mailinator.com,555-123-4567,3.2,asdf,<$5k,28.50
+lead_102,2026-10-12T08:22:10Z,B2B - Solar Solutions,Ad 2 - Case Study,Instant Form - Commercial Solar,John Smith,john.smith@gmail.com,5555555555,14.5,1-3 Months,$10k-$25k,28.50
+lead_103,2026-10-12T08:35:40Z,B2B - Solar Solutions,Ad 1 - Savings Hook,Instant Form - Commercial Solar,Robert Brown,robert.b@yahoo.com,202-555-0199,4.1,idk,none,28.50
+lead_104,2026-10-12T08:48:20Z,B2B - Solar Solutions,Ad 3 - Video Testimonial,Instant Form - Commercial Solar,Tom Davis,tom@test.com,12345,2.8,n/a,.,28.50
+lead_105,2026-10-12T09:05:00Z,B2B - Solar Solutions,Ad 2 - Case Study,Instant Form - Commercial Solar,Sarah Connor,sarah@tempmail.com,312-555-0144,3.9,immediately,test,28.50
+lead_106,2026-10-12T09:18:15Z,B2B - Solar Solutions,Ad 1 - Savings Hook,Instant Form - Commercial Solar,David Clark,david.clark@apexlogistics.com,415-322-8901,32.4,1-3 Months,$50k+,28.50
+lead_107,2026-10-12T09:30:22Z,B2B - Solar Solutions,Ad 2 - Case Study,Instant Form - Commercial Solar,Emily Watson,emily.watson@horizontech.io,650-844-1299,28.1,Immediately,$50k+,28.50
+lead_108,2026-10-12T09:44:11Z,B2B - Solar Solutions,Ad 1 - Savings Hook,Instant Form - Commercial Solar,Michael Chang,mchang@changmfg.com,510-441-7782,41.0,3-6 Months,$25k-$50k,28.50
+lead_109,2026-10-12T10:02:45Z,B2B - Solar Solutions,Ad 3 - Video Testimonial,Instant Form - Commercial Solar,Lisa Ray,lisa.ray@rayretail.com,212-778-9920,35.6,Immediately,$50k+,28.50
+lead_110,2026-10-12T10:15:30Z,B2B - Solar Solutions,Ad 2 - Case Study,Instant Form - Commercial Solar,James Wilson,jwilson@wilsonauto.com,312-992-3341,29.4,1-3 Months,$25k-$50k,28.50
+lead_111,2026-10-12T10:28:19Z,B2B - Solar Solutions,Ad 1 - Savings Hook,Instant Form - Commercial Solar,Karen Taylor,ktaylor@taylorcold.com,713-882-1144,38.2,Immediately,$50k+,28.50
+lead_112,2026-10-12T10:45:00Z,B2B - Solar Solutions,Ad 3 - Video Testimonial,Instant Form - Commercial Solar,Brian Scott,brian@scottholdings.org,206-554-9912,45.1,1-3 Months,$50k+,28.50
+lead_113,2026-10-12T11:00:15Z,B2B - Solar Solutions,Ad 2 - Case Study,Instant Form - Commercial Solar,Jessica Green,jgreen@greenlogistics.net,404-332-1100,52.0,Immediately,$50k+,28.50
+lead_114,2026-10-12T11:15:33Z,B2B - Solar Solutions,Ad 1 - Savings Hook,Instant Form - Commercial Solar,Daniel Martinez,dmartinez@martinezfoods.com,619-772-4411,36.8,Immediately,$50k+,28.50
+lead_115,2026-10-12T11:32:40Z,B2B - Solar Solutions,Ad 2 - Case Study,Instant Form - Commercial Solar,Laura Adams,laura@adamswarehousing.com,773-441-8899,44.5,1-3 Months,$50k+,28.50
+lead_116,2026-10-12T11:45:10Z,B2B - Solar Solutions,Ad 3 - Video Testimonial,Instant Form - Commercial Solar,Chris Evans,chris.evans@evanscorp.com,617-882-3310,19.2,Exploring Options,<$10k,28.50
+lead_117,2026-10-12T12:00:00Z,B2B - Solar Solutions,Ad 1 - Savings Hook,Instant Form - Commercial Solar,Patricia Moore,pmoore@mooreindustries.com,303-774-1122,22.1,3-6 Months,<$10k,28.50
+lead_118,2026-10-12T12:15:45Z,B2B - Solar Solutions,Ad 2 - Case Study,Instant Form - Commercial Solar,Kevin White,kwhite@whitedistribution.com,480-991-3322,18.9,Exploring Options,<$10k,28.50
+lead_119,2026-10-12T12:30:20Z,B2B - Solar Solutions,Ad 3 - Video Testimonial,Instant Form - Commercial Solar,Jennifer Hall,jhall@hallpackaging.com,702-554-1188,24.3,6+ Months,<$10k,28.50
+lead_120,2026-10-12T12:45:55Z,B2B - Solar Solutions,Ad 1 - Savings Hook,Instant Form - Commercial Solar,Anthony King,aking@kingmanufacturing.com,972-884-2200,26.7,Exploring Options,<$10k,28.50
