@@ -5,6 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 [![Type checked: mypy](https://img.shields.io/badge/type%20checked-mypy-blue.svg)](http://mypy-lang.org/)
+[![Hire Me: Lead Gen Audits](https://img.shields.io/badge/Hire%20Me-Lead%20Gen%20Audits%20%26%20CAPI-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://abouthamid.web.app/)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hamid-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
+[![Direct Email](https://img.shields.io/badge/Email-mhamidlad%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mhamidlad@gmail.com)
 
 > **Diagnostic and quality audit engine for Meta Lead Ads (Instant Forms) and CRM pipelines.**  
 > Detects disposable burner emails, fake telephone numbers, sub-5-second speed-clickers, and computes true **Cost-Per-Qualified-Lead (CPQL)** vs vanity front-end **Cost-Per-Lead (CPL)**. Generates automated **Meta Conversions API (CAPI) offline event payloads** for value optimization and custom audience exclusion lists.
@@ -201,7 +204,41 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ---
 
-## 👤 Author & Support
+## 💼 Done-For-You Lead Quality Audits & Meta CAPI CRM Pipelines
+
+> **Stop burning ad budget on tire-kickers and fake leads.** If your sales team is rejecting 50%+ of Meta form submissions, your ad campaigns are actively training Meta's algorithm to find more low-intent users.
+
+With **7+ years as a Digital Marketing Head** scaling lead generation for BPOs, healthcare institutions, and professional services across the US, UK, and international markets, I help revenue teams align Meta Ads directly with closed-won sales revenue.
+
+### 🎯 Available Services & Engagement Tiers
+
+| Service Tier | Best For | What's Included | Typical Impact |
+|---|---|---|---|
+| **🔍 Meta Lead Fraud & Quality Audit** | Brands spending \$10k–\$100k/mo on Lead Gen | Forensic analysis of form completion speeds, burner domains, fake phone patterns, and true Cost-Per-Qualified-Lead (CPQL) by ad set | Identifies which campaigns produce sales vs vanity numbers; cuts wasted CPL spend |
+| **⚙️ Turnkey CAPI Offline CRM Feedback Engine** | High-volume lead generators | Automated 2-way pipeline between your CRM (HubSpot/Salesforce/GoHighLevel) and Meta Conversions API for qualified lead & closed-won events | Trains Meta's delivery algorithm on real buyers; decreases CPQL by **30%–55%** |
+| **👑 Performance Lead Gen & Growth Retainer** | Scaling B2B & service brands | Full-funnel campaign architecture, multi-step qualification forms, landing page CRO, and sales team feedback loops | Consistent, high-intent SQL volume with positive sales pipeline ROI |
+
+---
+
+### 🚀 Ready to Fix Your Lead Quality?
+
+Connect with **Muhammad Hamid** to schedule an audit or discuss custom implementation:
+
+- 🌐 **Portfolio & Case Studies**: [abouthamid.web.app](https://abouthamid.web.app/)
+- 💼 **LinkedIn Profile**: [linkedin.com/in/muhammad-hamid-digital-marketing](https://www.linkedin.com/in/muhammad-hamid-digital-marketing/)
+- 📩 **Direct Business Email**: [`mhamidlad@gmail.com`](mailto:mhamidlad@gmail.com)
+- 📅 **Book a 1-on-1 Strategy Session**: [Schedule Discovery Call](https://abouthamid.web.app/)
+
+<p align="center">
+  <a href="https://abouthamid.web.app/"><img src="https://img.shields.io/badge/Book%20Lead%20Gen%20Audit-abouthamid.web.app-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Book Audit"></a>
+  <a href="https://www.linkedin.com/in/muhammad-hamid-digital-marketing/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hamid-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mhamidlad@gmail.com"><img src="https://img.shields.io/badge/Email-mhamidlad%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 👤 Author & Open Source Community
 
 Created and maintained by **Muhammad Hamid** ([@hamid-digitalmarketer](https://github.com/hamid-digitalmarketer)).  
 Submit an [issue](https://github.com/hamid-digitalmarketer/meta-lead-quality-analyzer/issues) or pull request to contribute!
+
